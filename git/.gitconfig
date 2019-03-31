@@ -13,3 +13,4 @@
 	c = checkout
 	cb = checkout -b
 	b = branch
+	s = status
