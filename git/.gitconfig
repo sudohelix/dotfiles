@@ -1,0 +1,5 @@
+[user]
+	name = Tyler Chamberland
+	email = 41761895+tylerchamberland@users.noreply.github.com
+[core]
+	excludesfile = ~/.gitignore
