@@ -3,3 +3,13 @@
 	email = 41761895+tylerchamberland@users.noreply.github.com
 [core]
 	excludesfile = ~/.gitignore
+	editor = vim
+[push]
+	default = current
+[alias]
+	d = diff
+	dc = diff --cached
+	l = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	c = checkout
+	cb = checkout -b
+	b = branch
